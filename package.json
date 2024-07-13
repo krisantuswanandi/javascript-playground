@@ -1,0 +1,16 @@
+{
+  "name": "javascript-playground",
+  "type": "module",
+  "scripts": {
+    "dev": "serve"
+  },
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "serve": "^14.2.3"
+  }
+}
